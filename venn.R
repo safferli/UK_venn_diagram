@@ -15,6 +15,7 @@ setwd(wd)
 # gplots: http://rstudio-pubs-static.s3.amazonaws.com/7700_308716400c694486994b6e8c4e5f451c.html
 # https://www.facebook.com/photo.php?fbid=10153445493968239&set=a.27870483238.35463.628883238&type=3
 # https://stackoverflow.com/questions/32440128/nice-looking-five-sets-venn-diagrams
+# https://cran.r-project.org/web/packages/ggVennDiagram/index.html
 
 
 
